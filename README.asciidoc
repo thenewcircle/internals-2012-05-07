@@ -9,6 +9,9 @@ To clone the repository:
 
 	git clone git://github.com/marakana/internals-2012-05-07.git
 
+or
+	git clone http://github.com/marakana/internals-2012-05-07.git
+
 or download a Zip archive by clicking the link above.
 
 == Useful Links
